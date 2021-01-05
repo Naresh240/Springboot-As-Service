@@ -6,6 +6,8 @@
 	Install Maven
 # Install Java, GIT, Maven
 	yum install java-1.8.0-openjdk git maven -y
+# Clone the code into root directory
+	git clone https://github.com/Naresh240/Springboot-As-Service.git
 # Building Your Application
 	mvn clean install
   The executable JAR file is now available in the target directory and we may start up the application by executing the following command on the command line:
