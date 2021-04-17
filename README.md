@@ -1,4 +1,4 @@
-# Springboot-As-Service-test
+# Springboot-As-Service
 
 # Pre-Requisites
 	Install Java
